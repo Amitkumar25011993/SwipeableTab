@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SwipeableTab</string>
+    <string name="frag1_text">Hero nurses walk for hours through the snow to make their shifts at Heartlands Hosital</string>
+    <string name="frag2_text">Why does it hardly ever snow properly in Swansea</string>
+    <string name="frag3_text">New research: EE offers the fastest 4G speeds in Great Britain</string>
+    <string name="frag4_text">This is fragment4</string>
+    <string name="frag5_text">This is fragment 5</string>
+</resources>
